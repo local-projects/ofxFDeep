@@ -4,7 +4,7 @@ This addon links [frugally-deep](https://github.com/Dobiasd/frugally-deep) with 
 
 This has been tested on Windows 10 with VS 2019 and OF 0.11.0
 
-This utilizes fdeep version 0.12.0
+This utilizes fdeep version 0.11.1.
 
 ## Usage
 
