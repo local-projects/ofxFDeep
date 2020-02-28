@@ -3,7 +3,7 @@
 //--------------------------------------------------------------
 void ofApp::setup(){
 
-	model = std::make_unique<fdeep::model>(fdeep::load_model(ofToDataPath("assets/models/fldc_pi_38_1550_fdeep_model_v0.12.0-p0.json")));
+	model = std::make_unique<fdeep::model>(fdeep::load_model(ofToDataPath("assets/models/fldc_pi_38_1550_fdeep_model_v0.12.1-p0.json")));
 
 	/////// SINGLE ////////
 
